@@ -24,7 +24,7 @@ generic function form: $$L(p) = p^n(1-p)^{N-n}$$
 
 -   The maximum likelihood estimator (MLE) is
 
-      The following equation
+The following equation
 \begin{equation}
   \hat{p}=\arg\max_{p}L(p).
 \end{equation}
