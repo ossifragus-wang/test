@@ -4,8 +4,6 @@
 
 ## Some useful commands in Julia REPL:
 
-
-
 - ? (enters help mode);
 - ; (enters system shell mode);
 - ] (enters package manager mode);
